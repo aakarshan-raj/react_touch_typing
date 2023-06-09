@@ -34,6 +34,7 @@
 }
 .info {
   margin: 0 10px;
+  
 }
 
 .label {
@@ -49,16 +50,17 @@
   padding: 5px 10px;
   font-size: 16px;
   outline: none;
+  text-align: center;
+
 }
 
 
 .key-info {
   margin-top: 20px;
+  font-size: 25px;
 }
 
-.value {
-  font-weight: bold;
-}
+
 
 .reset-button {
   margin-top: 20px;
@@ -86,6 +88,7 @@
   background-color: purple;
   color: white;
   border-radius: 5px;
+  background-color:dodgerblue;
 }
 body {
   background-color: #000;
